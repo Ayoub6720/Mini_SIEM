@@ -1,0 +1,9 @@
+/target/
+/reports/
+/out/
+sources.txt
+*.log
+*.class
+*.jar
+.DS_Store
+Thumbs.db
